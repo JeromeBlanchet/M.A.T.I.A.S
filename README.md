@@ -1,7 +1,2 @@
-# Modelling
-# Automated
-# Template
-# Integrated
-# Artificial
-# System
+# Modelling Automated Template Integrated Artificial System
 
